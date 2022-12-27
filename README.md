@@ -8,7 +8,7 @@ Head to the [Mapbox](https://www.mapbox.com/). Click on "Get started". Sign up f
 Click the "JS Web" option. Then, choose "Use the Mapbox CDN" to install Mapbox GL JS. Once you have done that you will be provided with a access token, like this one "pk.eyJ1IjoIcGVuh29veCIsImEiOiJjampHNshreDkwbGZ5M3BxbXZkdDQ0dGdpIn1.-36WPGfz6NY90m3trPkNyw".
 
 ![2018-07-08 1](https://user-images.githubusercontent.com/30196830/42422235-dc232b4a-82ff-11e8-82e5-d6f6f54b4da8.png)
-
+![image](/Images/map.png)
 # Getting started
 * Clone the repository.
 * Create a virtual environment.

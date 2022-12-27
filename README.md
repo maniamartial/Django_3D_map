@@ -7,6 +7,8 @@ displaying 3D buildings. I have used [Mapbox](https://www.mapbox.com/api-documen
 Head to the [Mapbox](https://www.mapbox.com/). Click on "Get started". Sign up for a free account. Once you have signed in,
 Click the "JS Web" option. Then, choose "Use the Mapbox CDN" to install Mapbox GL JS. Once you have done that you will be provided with a access token, like this one "pk.eyJ1IjoIcGVuh29veCIsImEiOiJjampHNshreDkwbGZ5M3BxbXZkdDQ0dGdpIn1.-36WPGfz6NY90m3trPkNyw".
 
+Look at screenshop, 3D view of KENYATTA UNIVERSITY
+
 ![image](/Images/map.png)
 # Getting started
 * Clone the repository.
